@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+	background-color: black;
+	color: white;
+}
+h1{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	font-family: monospace;
+	text-transform: uppercase;
+}
+.mob{
+	color: red;
+	font-size: 20px;
+	font-family: monospace;
+}
+.monger{
+	color: black;
+	font-size: 20px;
+	font-family: monospace;
+}
+ul{
+	list-style: none;
+	margin: 10px;
+}
+ul{
+	/*background-color: black;*/
+}
+div{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
